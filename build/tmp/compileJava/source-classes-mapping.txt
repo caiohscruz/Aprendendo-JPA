@@ -1,0 +1,6 @@
+classes/Estudante.java
+ classes.Estudante
+classes/Estado.java
+ classes.Estado
+execucao/CRUD.java
+ execucao.CRUD
